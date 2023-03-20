@@ -5,4 +5,4 @@ Draftkings, FanDuel, WynnBets, BetMGM, Fanduel, Caesars, BetRivers, Bet365, Poin
 
 These odds are compiled into a data file for a sports betting arbitrage bot written in c++ made to auto execute arbitrage opportunities across books with a profit of > 2.5%
 
-Using Python and Selenium this program is written to auto refresh and recompile the data every 30 seconds
+Using Python, Selenium, and BeautifulSoup this program is written to auto refresh and recompile the data every 30 seconds
